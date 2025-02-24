@@ -1,4 +1,4 @@
 # RimzimSoni-GitDemo
 This repository is created to practice and experiment with Git commands
 <br>
-Author- Rimzim Soni
+Author- Rimzim Soni(Student)
